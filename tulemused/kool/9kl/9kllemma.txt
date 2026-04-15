@@ -1,0 +1,108 @@
+vägi_vald 168 
+    olema 61 
+        iga_sugune 12 
+            tahtlik 10 
+                teine 7 
+                    inimene 7 
+                        vaimne 6 
+                            kehaline 5 
+        mina 7 
+            ümber 7 
+        erinev 5 
+            liik 5 
+        ka 3 
+    võima 18 
+        olema 7 
+        põhjustama 3 
+    ei 15 
+        olema 8 
+    tulema 5 
+    põhjustama 5 
+    kasutama 4 
+    vastu 4 
+    saama 4 
+    all 4 
+    esinema 4 
+    võitlemine 3 
+    pidama 3 
+see 36 
+    olema 10 
+    võima 6 
+        olema 3 
+    ei 5 
+        olema 3 
+kui 30 
+    inimene 6 
+    olema 6 
+    sina 5 
+olema 21 
+    olema 7 
+    ka 4 
+    inimene 4 
+        kes 4 
+inimene 21 
+    kes 8 
+        olema 3 
+        kasutama 3 
+mõni 14 
+    inimene 8 
+vägi_valdne 14 
+    inimene 8 
+        olema 3 
+    käitumine 4 
+        võima 3 
+näiteks 14 
+    kui 3 
+seksuaalne 13 
+    vägi_vald 11 
+        olema 3 
+tema 12 
+mitte 11 
+    keegi 9 
+        ei 9 
+            pidama 4 
+            tohtima 3 
+Vaimne 11 
+    vägi_vald 11 
+        olema 3 
+        võima 3 
+            avalduma 3 
+kõik 10 
+kõige 10 
+mis 9 
+    olema 4 
+        vägi_vald 3 
+aga 9 
+    mis 3 
+selline 9 
+mina 9 
+füüsiline 9 
+    vägi_vald 7 
+iga 8 
+    inimene 4 
+        olema 3 
+kuidas 7 
+laps 7 
+kehaline 6 
+    vägi_vald 6 
+keegi 6 
+    ei 3 
+kuid 6 
+teine 6 
+vaimne 5 
+    vägi_vald 4 
+ohver 5 
+palju 5 
+    inimene 3 
+nii 4 
+ise 4 
+sina 4 
+    ei 3 
+internet 4 
+    olema 3 
+ja 4 
+olenema 3 
+võima 3 
+tulema 3 
+saama 3 
+enamus 3 
