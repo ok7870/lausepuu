@@ -1,0 +1,248 @@
+[['Ma', 'ärkasin', 'vara'], ['Ma', 'ärkasin', 'väga', 'vara'], ['Ma', 'ärkasin', 'enne', 'päikest'], ['Ma', 'ärkasin,', 'kui', 'kõik', 'magasid'], ['Ma', 'ärkasin', 'ja', 'vaatasin', 'aknast', 'välja'], ['Ma', 'ärkasin', 'ja', 'kuulasin', 'vaikust'], ['Ma', 'ärkasin', 'ja', 'tundsin,', 'et', 'olen', 'ärkvel'], ['Kõik', 'magasid'], ['Linn', 'magas'], ['Maja', 'magas'], ['Toad', 'magasid'], ['Isegi', 'kell', 'magas'], ['Ainult', 'mina', 'ei', 'maganud'], ['Ainult', 'mina', 'olin', 'ärkvel'], ['Ainult', 'mina', 'olin', 'ärkvel', 'ja', 'vaatasin,', 'kuulasin,', 'ootasin']]
+{'korrad': 0, 'oksad': {}} test
+
+{
+  "korrad": 0,
+  "oksad": {
+    "Ma": {
+      "korrad": 7,
+      "oksad": {
+        "\u00e4rkasin": {
+          "korrad": 6,
+          "oksad": {
+            "vara": {
+              "korrad": 1,
+              "oksad": {}
+            },
+            "v\u00e4ga": {
+              "korrad": 1,
+              "oksad": {
+                "vara": {
+                  "korrad": 1,
+                  "oksad": {}
+                }
+              }
+            },
+            "enne": {
+              "korrad": 1,
+              "oksad": {
+                "p\u00e4ikest": {
+                  "korrad": 1,
+                  "oksad": {}
+                }
+              }
+            },
+            "ja": {
+              "korrad": 3,
+              "oksad": {
+                "vaatasin": {
+                  "korrad": 1,
+                  "oksad": {
+                    "aknast": {
+                      "korrad": 1,
+                      "oksad": {
+                        "v\u00e4lja": {
+                          "korrad": 1,
+                          "oksad": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "kuulasin": {
+                  "korrad": 1,
+                  "oksad": {
+                    "vaikust": {
+                      "korrad": 1,
+                      "oksad": {}
+                    }
+                  }
+                },
+                "tundsin,": {
+                  "korrad": 1,
+                  "oksad": {
+                    "et": {
+                      "korrad": 1,
+                      "oksad": {
+                        "olen": {
+                          "korrad": 1,
+                          "oksad": {
+                            "\u00e4rkvel": {
+                              "korrad": 1,
+                              "oksad": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "\u00e4rkasin,": {
+          "korrad": 1,
+          "oksad": {
+            "kui": {
+              "korrad": 1,
+              "oksad": {
+                "k\u00f5ik": {
+                  "korrad": 1,
+                  "oksad": {
+                    "magasid": {
+                      "korrad": 1,
+                      "oksad": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "K\u00f5ik": {
+      "korrad": 1,
+      "oksad": {
+        "magasid": {
+          "korrad": 1,
+          "oksad": {}
+        }
+      }
+    },
+    "Linn": {
+      "korrad": 1,
+      "oksad": {
+        "magas": {
+          "korrad": 1,
+          "oksad": {}
+        }
+      }
+    },
+    "Maja": {
+      "korrad": 1,
+      "oksad": {
+        "magas": {
+          "korrad": 1,
+          "oksad": {}
+        }
+      }
+    },
+    "Toad": {
+      "korrad": 1,
+      "oksad": {
+        "magasid": {
+          "korrad": 1,
+          "oksad": {}
+        }
+      }
+    },
+    "Isegi": {
+      "korrad": 1,
+      "oksad": {
+        "kell": {
+          "korrad": 1,
+          "oksad": {
+            "magas": {
+              "korrad": 1,
+              "oksad": {}
+            }
+          }
+        }
+      }
+    },
+    "Ainult": {
+      "korrad": 3,
+      "oksad": {
+        "mina": {
+          "korrad": 3,
+          "oksad": {
+            "ei": {
+              "korrad": 1,
+              "oksad": {
+                "maganud": {
+                  "korrad": 1,
+                  "oksad": {}
+                }
+              }
+            },
+            "olin": {
+              "korrad": 2,
+              "oksad": {
+                "\u00e4rkvel": {
+                  "korrad": 2,
+                  "oksad": {
+                    "ja": {
+                      "korrad": 1,
+                      "oksad": {
+                        "vaatasin,": {
+                          "korrad": 1,
+                          "oksad": {
+                            "kuulasin,": {
+                              "korrad": 1,
+                              "oksad": {
+                                "ootasin": {
+                                  "korrad": 1,
+                                  "oksad": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+
+ Ma 7
+     ärkasin 6
+         vara 1
+         väga 1
+             vara 1
+         enne 1
+             päikest 1
+         ja 3
+             vaatasin 1
+                 aknast 1
+                     välja 1
+             kuulasin 1
+                 vaikust 1
+             tundsin, 1
+                 et 1
+                     olen 1
+                         ärkvel 1
+     ärkasin, 1
+         kui 1
+             kõik 1
+                 magasid 1
+ Kõik 1
+     magasid 1
+ Linn 1
+     magas 1
+ Maja 1
+     magas 1
+ Toad 1
+     magasid 1
+ Isegi 1
+     kell 1
+         magas 1
+ Ainult 3
+     mina 3
+         ei 1
+             maganud 1
+         olin 2
+             ärkvel 2
+                 ja 1
+                     vaatasin, 1
+                         kuulasin, 1
+                             ootasin 1
